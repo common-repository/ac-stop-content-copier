@@ -1,0 +1,22 @@
+.acbdc-col {
+	padding: 10px;
+	width: 300px;
+	float: left;
+	border-right: 1px solid #ccc;
+}
+.acbd-about {
+	width: 600px;
+}
+
+.acbdc-copy {
+	font-style: italic;
+	text-align: center;
+	font-size: 13px;
+	line-height: 20px;
+	margin-right: 485px;
+}
+
+.acbdc-copy a {
+	text-decoration: none;
+	color: #777;
+}
